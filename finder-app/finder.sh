@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Exit with a return value of 1 if the wrong number of args are supplied
 if [ $# -ne 2 ]
